@@ -1,0 +1,91 @@
+﻿  Lab 3A.cpp
+  Submission.cpp
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2059: syntax error: '{'
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2059: syntax error: '{'
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2059: syntax error: '{'
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2059: syntax error: '{'
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2059: syntax error: '{'
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(161,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Lab%203A.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(211,19): error C3646: 'Test6': unknown override specifier
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(211,25): error C2065: 'string': undeclared identifier
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(211,32): error C2146: syntax error: missing ')' before identifier 'num1'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(211,64): error C2238: unexpected token(s) preceding ';'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2059: syntax error: '{'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2059: syntax error: '{'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2059: syntax error: '{'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2059: syntax error: '{'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2059: syntax error: '{'
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(161,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Test.cpp
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2059: syntax error: '{'
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(212,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2059: syntax error: '{'
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(241,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2059: syntax error: '{'
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(262,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2059: syntax error: '{'
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(288,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2059: syntax error: '{'
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(317,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Test.cpp')
+  
+C:\FS\PG1\Working\Lab3A\Lab 3A\Lab 3A\Submission.cpp(161,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+  Generating Code...
