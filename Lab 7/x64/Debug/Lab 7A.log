@@ -1,0 +1,20 @@
+﻿  Lab 7A.cpp
+C:\FS\Working\Lab 7A\Lab 7A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%207A.cpp')
+  
+  Shape.cpp
+C:\FS\Working\Lab 7A\Lab 7A\Test.cpp(107,41): error C2039: 'GetCircumference': is not a member of 'Circle'
+  (compiling source file 'Lab%207A.cpp')
+  C:\FS\Working\Lab 7A\Lab 7A\Shape.cpp(7,7):
+  see declaration of 'Circle'
+  
+  Submission.cpp
+  Test.cpp
+C:\FS\Working\Lab 7A\Lab 7A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+C:\FS\Working\Lab 7A\Lab 7A\Test.cpp(107,41): error C2039: 'GetCircumference': is not a member of 'Circle'
+  C:\FS\Working\Lab 7A\Lab 7A\Shape.cpp(7,7):
+  see declaration of 'Circle'
+  
+  Generating Code...

@@ -1,0 +1,15 @@
+﻿  Lab 7A.cpp
+C:\FS\Working\Lab 7A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab%207A.cpp')
+  
+  Shape.cpp
+  Submission.cpp
+  Test.cpp
+C:\FS\Working\Lab 7A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+  TextCodec.cpp
+  Generating Code...
+  Lab 7A.vcxproj -> C:\FS\Working\x64\Debug\Lab 7A.exe
+  0 File(s) copied
+  0 File(s) copied
