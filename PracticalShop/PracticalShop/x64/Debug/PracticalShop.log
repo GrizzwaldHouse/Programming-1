@@ -1,0 +1,5 @@
+﻿  PracticalShop.cpp
+C:\Users\Marcus\Desktop\PracticalShop\PracticalShop\Inventory.cpp(77): warning C4715: 'Inventory::AddItem': not all control paths return a value
+C:\Users\Marcus\Desktop\PracticalShop\PracticalShop\Inventory.cpp(135): warning C4715: 'Inventory::GetItem': not all control paths return a value
+C:\Users\Marcus\Desktop\PracticalShop\PracticalShop\Inventory.cpp(110): warning C4715: 'Inventory::RemoveItem': not all control paths return a value
+  PracticalShop.vcxproj -> C:\Users\Marcus\Desktop\PracticalShop\PracticalShop\x64\Debug\PracticalShop.exe
