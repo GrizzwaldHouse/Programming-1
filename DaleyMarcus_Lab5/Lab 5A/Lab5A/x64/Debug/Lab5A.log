@@ -1,0 +1,14 @@
+﻿  Lab5A.cpp
+C:\FS\PG1\Lab 5A\Lab5A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Lab5A.cpp')
+  
+  Source.cpp
+  Submission.cpp
+  Test.cpp
+C:\FS\PG1\Lab 5A\Lab5A\LabTestUtils.h(22,2): warning C4091: 'extern ': ignored on left of 'LabTestUtils' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+  Generating Code...
+  Lab5A.vcxproj -> C:\FS\PG1\Lab 5A\x64\Debug\Lab5A.exe
+  0 File(s) copied
+  0 File(s) copied
